@@ -1,9 +1,7 @@
 
 ### Preparation ###
-demo = False # set to true if printing out info for someone else to look at
 first_elf = []
 second_elf = []
-both_sides_since_part_2_needs_that_now = []
 with open("day4input") as file:
     for line in file:
         line = line.strip()
